@@ -1,0 +1,939 @@
+sitc,x,y,cluster,sitc_name,n_prod,cluster_cl
+0,15.890849,-4.2139983,,,,
+0011,15.46609,-4.065872,0.0,"Animals of the bovine species (including buffaloes), live",2.0,0.0
+0012,15.602483,-4.3093486,0.0,"Sheep and goats, live",2.0,0.0
+0013,16.243904,-3.147542,2.0,"Swine, live",6.0,0.0
+0014,17.00905,-3.7236023,5.0,"Poultry, live",3.0,0.0
+0015,16.250229,-4.8590617,3.0,"Equine species, live",9.0,0.0
+0019,21.58694,6.0862684,1.0,"Live animals of a kind mainly used for human food, nes",4.0,1.0
+0111,16.509937,-4.9790545,3.0,"Bovine meat, fresh, chilled or frozen",9.0,0.0
+0112,15.242263,-4.5082355,3.0,"Meat of sheep and goats, fresh, chilled or frozen",9.0,0.0
+0113,16.692238,-2.7211382,2.0,"Pig meat fresh, chilled or frozen",6.0,0.0
+0114,15.930528,-2.9523735,2.0,"Poultry, dead and edible offal, fresh, chilled or frozen",6.0,0.0
+0115,16.002155,-4.579309,3.0,"Meat of horses, asses, mules and hinnies, fresh, chilled or frozen",9.0,0.0
+0116,15.5218,-4.7879496,3.0,"Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen",9.0,0.0
+0118,21.601698,5.717451,1.0,"Other fresh, chilled or frozen meat or edible meat offal",4.0,1.0
+0121,16.17003,-2.6645553,2.0,"Bacon, ham, other dried, salted or smoked meat of domestic swine",6.0,0.0
+0129,21.002472,6.1422825,1.0,"Meat and edible meat offal, nes, in brine, dried, salted or smoked",4.0,1.0
+0141,16.129637,-5.3357887,3.0,Meat extracts and juices; fish extracts,9.0,0.0
+0142,16.734482,-4.493628,4.0,"Sausages and the like, of meat, meat offal or animal blood",10.0,0.0
+0149,16.719934,-4.7647486,4.0,Other prepared or preserved meat or meat offal,10.0,0.0
+0223,16.961845,-4.0526233,4.0,"Milk and cream fresh, not concentrated or sweetened",10.0,0.0
+0224,17.221334,-4.066629,4.0,"Milk and cream, preserved, concentrated or sweetened",10.0,0.0
+0230,17.610725,-3.9296594,4.0,Butter,10.0,0.0
+0240,17.47089,-4.3328705,4.0,Cheese and curd,10.0,0.0
+0251,17.389055,-3.6133828,5.0,"Eggs, birds', and egg yolks, fresh, dried or preserved, in shell",3.0,0.0
+0252,17.171408,-3.3290043,5.0,"Eggs, birds', egg yolks, fresh, dried or preserved, not in shell",3.0,0.0
+0341,21.619757,4.526796,6.0,"Fish, fresh or chilled, excluding fillet",8.0,1.0
+0342,22.189482,5.1106043,6.0,"Fish, frozen, excluding fillets",8.0,1.0
+0343,21.859118,4.8692985,6.0,"Fish fillets, fresh or chilled",8.0,1.0
+0344,21.998896,5.34827,6.0,"Fish fillets, frozen",8.0,1.0
+0350,22.151804,4.5310726,6.0,"Fish, dried, salted or in brine; smoked fish",8.0,1.0
+0360,22.464727,4.885517,6.0,"Crustaceans and molluscs, fresh, chilled, frozen, salted, etc",8.0,1.0
+0371,21.107813,5.1437545,7.0,"Fish, prepared or preserved, nes",2.0,1.0
+0372,21.247871,4.7751026,7.0,"Crustaceans and molluscs, prepared or prepared, nes",2.0,1.0
+0411,15.441826,-3.6593153,8.0,"Durum wheat, unmilled",9.0,0.0
+0412,15.749946,-3.1810749,8.0,"Other wheat and meslin, unmilled",9.0,0.0
+0421,9.772269,4.6247716,9.0,"Rice in the husk or husked, but not farther prepared",2.0,2.0
+0422,10.022121,4.2170405,9.0,"Rice, semi-milled or wholly milled",2.0,2.0
+0430,15.091038,-3.778284,8.0,"Barley, unmilled",9.0,0.0
+0440,9.18778,4.844612,10.0,"Maize, unmilled",6.0,2.0
+0451,15.400091,-3.3040082,8.0,"Rye, unmilled",9.0,0.0
+0452,15.010245,-3.4474916,8.0,"Oats, unmilled",9.0,0.0
+0459,9.289699,4.5012636,10.0,"Buckwheat, millet, etc, and other cereals, unmilled, nes",6.0,2.0
+0460,10.418914,4.453737,11.0,Meal and flour of wheat and flour of meslin,5.0,2.0
+0470,10.130174,5.172994,11.0,Other cereal meals and flour,5.0,2.0
+0481,9.945857,4.893338,11.0,"Cereal grains, worked or prepared, not elsewhere specified",5.0,2.0
+0482,15.48288,-2.8478978,8.0,"Malt, roasted or not, including flour",9.0,0.0
+0483,6.287427,-7.185559,113.0,"Macaroni, spaghetti and similar products",18.0,14.0
+0484,7.9303536,-7.368777,52.0,Bakery products,17.0,14.0
+0488,17.18882,-4.654819,4.0,Malt extract; cereals preparations with less 50% of cocoa,10.0,0.0
+0541,9.580526,1.8700017,12.0,"Potatoes, fresh or chilled, excluding sweet potatoes",15.0,3.0
+0542,8.820024,4.7939625,10.0,"Beans, peas, other leguminous vegetables, dried, shelled",6.0,2.0
+0544,9.557691,1.5853688,12.0,"Tomatoes, fresh or chilled",15.0,3.0
+0545,11.43904,2.4074,14.0,Other fresh or chilled vegetables,5.0,3.0
+0546,10.120906,1.3207853,12.0,"Vegetables, frozen or in temporary preservative",15.0,3.0
+0548,9.182123,1.5489962,12.0,"Vegetable products roots and tubers, nes, fresh, dried",15.0,3.0
+0561,9.873582,1.5845538,12.0,"Vegetables (excluding leguminous), dried, evaporated, etc",15.0,3.0
+0564,10.448688,5.0226016,11.0,"Flour, meals and flakes of potatoes, fruit and vegetables, nes",5.0,2.0
+0565,9.823743,1.1562577,12.0,"Vegetables, prepared or preserved, nes",15.0,3.0
+0571,10.494097,2.789743,13.0,"Oranges, mandarins, etc, fresh or dried",2.0,3.0
+0572,10.238291,2.685675,13.0,"Other citrus fruits, fresh or dried",2.0,3.0
+0573,11.486779,1.8770249,14.0,"Banana, plantain, fresh or dried",5.0,3.0
+0574,10.456902,1.2493896,12.0,"Apples, fresh",15.0,3.0
+0575,11.139075,2.067586,14.0,"Grapes, fresh or dried",5.0,3.0
+0576,10.202125,1.580488,12.0,"Figs, fresh or dried",15.0,3.0
+0577,11.046115,2.4144936,14.0,"Nuts edible, fresh or dried",5.0,3.0
+0579,11.104831,1.6754977,14.0,"Fruit, fresh or dried, nes",5.0,3.0
+0582,9.756202,5.2881665,11.0,"Fruit, fruit-peel and parts of plants, preserved by sugar",5.0,2.0
+0583,10.133575,0.9654046,12.0,"Jams, jellies, marmalades, etc, as cooked preparations",15.0,3.0
+0585,10.026635,0.6370693,12.0,Fruit or vegetable juices,15.0,3.0
+0586,9.551301,1.2358572,12.0,"Fruit, temporarily preserved",15.0,3.0
+0589,9.581694,0.76371837,12.0,"Fruit prepared or preserved, nes",15.0,3.0
+0611,19.09604,6.497919,15.0,"Sugars, beet and cane, raw, solid",4.0,4.0
+0612,18.65484,6.001061,15.0,Refined sugar etc,4.0,4.0
+0615,18.621372,6.3724914,15.0,Molasses,4.0,4.0
+0616,10.581427,0.9167385,12.0,Natural honey,15.0,3.0
+0619,7.4198256,-6.356692,64.0,Sugars and syrups nes; artificial honey; caramel,10.0,14.0
+0620,8.224383,-7.130939,52.0,"Sugar confectionery and preparations, non-chocolate",17.0,14.0
+0711,19.08319,6.1167684,15.0,"Coffee green, roasted; coffee substitutes containing coffee",4.0,4.0
+0712,-0.10358405,10.428234,58.0,"Coffee extracts, essences or concentrates",6.0,10.0
+0721,16.583433,6.8718934,16.0,"Cocoa beans, raw, roasted",3.0,9.0
+0722,16.249754,7.3884735,16.0,"Cocoa powder, unsweetened",3.0,9.0
+0723,16.332157,7.099867,16.0,Cocoa butter and paste,3.0,9.0
+0730,7.354351,-6.575846,64.0,"Chocolate and other preparations containing cocoa, nes",10.0,14.0
+0741,18.534042,5.648718,17.0,Tea,7.0,4.0
+0742,16.994831,-5.0395527,4.0,Mate,10.0,0.0
+0751,18.981392,4.993069,17.0,"Pepper of ""piper""; pimento of ""capsicum or pimenta""",7.0,4.0
+0752,19.299587,4.705814,17.0,"Spices, except pepper and pimento",7.0,4.0
+0811,16.22422,-3.7292032,18.0,"Hay and fodder, green or dry",3.0,0.0
+0812,9.130256,4.1813083,10.0,"Bran, sharps and other residues derives of cereals",6.0,2.0
+0813,8.621795,4.213466,44.0,Oilcake and other residues (except dregs),10.0,2.0
+0814,22.067413,5.836946,6.0,"Flours and meals, of meat, fish,etc, unfit for human; greaves",8.0,1.0
+0819,16.009607,-3.583505,18.0,"Food waste and prepared animal feed, nes",3.0,0.0
+0913,16.469992,-2.9852664,2.0,"Lard, pig and poultry fat, rendered or solvent-extracted",6.0,0.0
+0914,7.289314,-7.023593,52.0,"Margarine, imitation lard and other prepared edible fats, nes",17.0,14.0
+0980,7.735782,-6.861333,52.0,"Edible products and preparations, nes",17.0,14.0
+1,21.296684,5.4564233,,,,
+10,9.386549,4.105693,,,,
+100,1.74214,2.3828423,,,,
+101,5.6896806,6.483424,,,,
+102,-0.10717006,2.0620074,,,,
+103,0.52085596,1.5574671,,,,
+104,1.5154892,1.7858785,,,,
+105,2.0395281,1.9814162,,,,
+106,8.930021,-5.174669,,,,
+107,9.433049,-4.7021565,,,,
+108,11.825606,4.9770937,,,,
+109,12.687874,4.7698503,,,,
+11,10.103362,4.570376,,,,
+110,1.8143431,0.8342788,,,,
+111,9.061034,7.8868933,,,,
+1110,8.28788,-7.499507,52.0,"Non-alcoholic beverages, nes",17.0,14.0
+112,1.539867,1.4463506,,,,
+1121,9.212738,1.0768749,12.0,Wine of fresh grapes etc,15.0,3.0
+1122,1.6608953,10.946563,94.0,"Other fermented beverages, nes (cider, perry, mead, etc)",30.0,10.0
+1123,7.8094463,-7.6023884,52.0,"Beer made from malt (including ale, stout and porter)",17.0,14.0
+1124,8.225079,-7.864967,52.0,"Distilled alcoholic beverages, nes",17.0,14.0
+113,6.6259937,-6.549345,,,,
+114,9.55384,8.381558,,,,
+115,9.443679,7.8223205,,,,
+12,9.994044,1.8738899,,,,
+1211,10.745276,1.7340415,19.0,"Tobacco, not stripped",3.0,3.0
+1212,10.413998,1.7177166,19.0,"Tobacco, wholly or partly stripped",3.0,3.0
+1213,10.996672,1.301282,19.0,Tobacco refuse,3.0,3.0
+1221,9.735949,3.188027,39.0,"Cigars, cheroots: cigarillos",4.0,3.0
+1222,7.8131895,-6.6420097,52.0,Cigarettes,17.0,14.0
+1223,2.0607338,10.708324,94.0,"Tobacco, manufactured; tobacco extract and essences",30.0,10.0
+13,10.272522,2.428704,,,,
+14,10.840583,2.0613115,,,,
+15,18.9843,5.761054,,,,
+16,16.848522,6.99358,,,,
+17,19.263763,5.4348288,,,,
+18,16.512508,-3.8000286,,,,
+19,10.303334,1.9810432,,,,
+2,16.180315,-3.3636992,,,,
+20,13.217609,1.833635,,,,
+21,13.418389,1.3960284,,,,
+2111,13.589968,1.8795196,20.0,"Bovine and equine hides, raw, whether or not split",4.0,5.0
+2112,13.198356,2.2808573,20.0,"Calf skins, raw, whether or not split",4.0,5.0
+2114,13.181302,0.885305,21.0,"Goat and kid skins, raw, whether or not split",3.0,5.0
+2116,14.040132,1.9790994,32.0,"Sheep and lamb skin with the wool on, raw, whether or not split",3.0,5.0
+2117,14.176732,0.870605,60.0,"Sheep and lamb skin without the wool, raw, whether or not split",4.0,5.0
+2119,12.768747,1.2118616,21.0,"Hides and skins, nes; waste and used leather",3.0,5.0
+2120,9.016119,4.487054,10.0,"Furskins, raw",6.0,2.0
+22,17.0895,7.3368163,,,,
+2221,9.858414,3.766643,28.0,"Groundnuts, green",5.0,2.0
+2222,8.408088,4.6830225,44.0,Soya beans,10.0,2.0
+2223,9.892142,3.4854975,28.0,Cotton seeds,5.0,2.0
+2224,15.683557,-3.8132994,8.0,Sunflower seeds,9.0,0.0
+2225,8.541832,5.092312,10.0,Sesame seeds,6.0,2.0
+2226,15.136228,-4.1177506,8.0,Rape and colza seeds,9.0,0.0
+2231,16.907982,7.6339345,22.0,Copra,2.0,9.0
+2232,9.171111,5.4663606,23.0,Palm nuts and kernels,3.0,2.0
+2234,15.057135,-3.0346296,8.0,Linseed,9.0,0.0
+2235,8.975454,5.1380677,23.0,Castor oil seeds,3.0,2.0
+2238,9.439488,5.1778593,23.0,"Oil seeds and oleaginous fruits, nes",3.0,2.0
+2239,8.878218,4.0372963,44.0,"Flour or meals of oil seeds or oleaginous fruit, non-defatted",10.0,2.0
+23,9.513287,4.8723264,,,,
+2320,16.684437,6.54693,45.0,Natural rubber latex; natural rubber and gums,3.0,9.0
+2331,-3.2180018,2.7321296,102.0,"Synthetic rubber, latex; factice derived from oils",14.0,15.0
+2332,9.427127,-6.263369,88.0,"Reclaimed rubber, waste, scrap of unhardened rubber",21.0,14.0
+24,10.878171,2.8269057,,,,
+2440,10.904762,3.270923,24.0,"Cork, natural, raw and waste",2.0,3.0
+2450,9.654673,-5.282871,107.0,Fuel wood and wood charcoal,12.0,14.0
+2460,15.982857,7.0805564,25.0,Pulpwood (including chips and wood waste),5.0,11.0
+2471,15.402331,7.486062,25.0,"Sawlogs and veneer logs, of coniferous species",5.0,11.0
+2472,15.774837,7.3189864,25.0,"Sawlogs and veneer logs, of non-coniferous species",5.0,11.0
+2479,15.500182,7.0377955,25.0,"Pitprops, poles, piling, post and other wood in the rough, nes",5.0,11.0
+2481,15.800476,6.3503094,63.0,Railway or tramway sleepers (ties) of wood,6.0,11.0
+2482,15.847183,6.068163,63.0,"Wood of coniferous species, sawn, planed, tongued, grooved, etc",6.0,11.0
+2483,15.142365,6.972653,25.0,"Wood, non-coniferous species, sawn, planed, tongued, grooved, etc",5.0,11.0
+25,15.863749,6.8251557,,,,
+2511,17.020441,-4.4382734,4.0,"Waste paper and paperboard, etc",10.0,0.0
+2512,15.420825,6.1468368,26.0,Mechanical wood pulp,6.0,11.0
+2516,14.950393,6.0722747,26.0,"Chemical wood pulp, dissolving grades",6.0,11.0
+2517,14.780401,6.676872,26.0,"Chemical wood pulp, soda or sulphate",6.0,11.0
+2518,15.358417,5.774685,26.0,"Chemical wood pulp, sulphite",6.0,11.0
+2519,15.39024,6.5434475,26.0,Other cellulosic pulps,6.0,11.0
+26,15.6152725,6.6657834,,,,
+2613,19.383617,5.9646,27.0,Raw silk (not thrown),3.0,4.0
+2614,19.738943,6.0036182,27.0,Silk worm cocoons and silk waste,3.0,4.0
+2631,9.044022,3.2603261,28.0,"Raw cotton, excluding linters, not carded or combed",5.0,2.0
+2632,9.421668,3.6415453,28.0,Cotton linters,5.0,2.0
+2633,6.835185,10.643333,66.0,"Cotton waste, not carded or combed",5.0,12.0
+2634,6.7878065,10.304703,66.0,"Cotton, carded or combed",5.0,12.0
+2640,19.724897,5.4021063,30.0,"Jute, other textile bast fibres, nes, raw, processed but not spun",5.0,4.0
+2651,16.81988,-3.568505,29.0,"Flax and ramie, flax tow, ramie noils, and waste",2.0,0.0
+2652,16.694386,-3.2742574,29.0,"True hemp, raw or processed but not spun, its tow and waste",2.0,0.0
+2654,19.942978,5.742793,30.0,"Sisal, agave fibres, raw or processed but not spun, and waste",5.0,4.0
+2655,20.201355,6.067304,30.0,"Manila hemp, raw or processed but not spun, its tow and waste",5.0,4.0
+2659,20.14859,5.4366035,30.0,"Vegetable textile fibres, nes, and waste",5.0,4.0
+2665,0.24096656,10.663971,31.0,"Discontinuous synthetic fibres, not carded or combed",3.0,10.0
+2666,0.4002998,10.413601,31.0,Continuous filament tow for synthetic (discontinuous) fibres,3.0,10.0
+2667,-0.025435448,10.67447,31.0,"Discontinuous synthetic fibres, carded or combed",3.0,10.0
+2671,-3.5043108,1.5877944,95.0,Regenerated fibre suitable for spinning,29.0,15.0
+2672,6.613674,10.110964,67.0,"Waste of man-made fibres, not carded or combed",7.0,12.0
+2681,14.428068,1.7496456,32.0,Wool greasy or fleece-washed of sheep or lambs,3.0,5.0
+2682,14.017153,1.5880915,32.0,"Wool degreased, uncombed of sheep or lambs",3.0,5.0
+2683,8.380833,-5.8300557,33.0,"Fine animal hair, not carded or combed",4.0,14.0
+2685,15.757237,-4.602446,3.0,"Horsehair and other coarse animal hair, not carded or combed",9.0,0.0
+2686,8.739365,-5.7839065,33.0,"Waste of sheep's or lambs' wool, or of other animal hair, nes",4.0,14.0
+2687,9.0164995,-5.423742,33.0,"Sheep's or lambs' wool, or of other animal hair, carded or combed",4.0,14.0
+2690,10.888822,7.1384506,73.0,Old clothing and other old textile articles; rags,7.0,17.0
+27,19.462946,5.6467013,,,,
+2711,6.467983,-6.770544,113.0,"Animal or vegetable fertilizer, crude",18.0,14.0
+2712,9.2584915,-5.4387574,49.0,Natural sodium nitrate,6.0,14.0
+2713,7.786193,-5.0639625,53.0,"Natural calcium phosphates, natural aluminium, etc",7.0,14.0
+2714,7.306021,-4.851095,53.0,"Potassium salts, natural, crude",7.0,14.0
+2731,9.753843,2.5212486,34.0,"Building and monumental (dimension) stone, roughly squared, split",5.0,3.0
+2732,8.506598,-6.515248,88.0,"Gypsum, plasters, limestone flux and calcareous stone",21.0,14.0
+2733,0.5369754,11.615527,57.0,"Sands, excluding metal-bearing sands",11.0,10.0
+2734,8.776901,-6.5334234,88.0,"Pebbles, gravel, crushed or broken stone, etc",21.0,14.0
+2741,18.360435,12.534086,43.0,"Sulphur (other than sublimed, precipitated or colloidal)",4.0,8.0
+2742,9.056092,-4.981256,106.0,"Iron pyrites, unroasted",12.0,14.0
+2771,9.68257,7.307482,80.0,Industrial diamonds,2.0,17.0
+2772,-0.9998617,3.3309186,91.0,Other natural abrasives,10.0,15.0
+2782,9.398452,2.7437432,34.0,"Clay and other refractory minerals, nes",5.0,3.0
+2783,9.350045,-5.226461,49.0,Common salt; pure sodium chloride; salt liquors; sea water,6.0,14.0
+2784,21.10837,10.697475,85.0,Asbestos,4.0,7.0
+2785,9.111405,2.4407153,34.0,"Quartz, mica, felspar, fluorspar, cryolite and chiolite",5.0,3.0
+2786,8.930042,-4.077581,82.0,"Slag, scalings, dross and similar waste, nes",13.0,14.0
+2789,9.468671,2.2930548,34.0,"Minerals, crude, nes",5.0,3.0
+28,9.20291,3.7821476,,,,
+2814,21.305056,8.87079,35.0,Roasted iron pyrites,3.0,7.0
+2815,21.21909,9.268686,35.0,"Iron ore and concentrates, not agglomerated",3.0,7.0
+2816,21.54579,9.275889,35.0,Iron ore agglomerates,3.0,7.0
+2820,8.124138,-4.741998,38.0,Waste and scrap metal of iron or steel,3.0,14.0
+2860,20.403976,9.285078,51.0,Ores and concentrates of uranium and thorium,3.0,7.0
+2871,15.967896,7.611049,37.0,Copper ore and concentrates; copper matte; cement copper,4.0,13.0
+2872,20.88472,11.000656,85.0,"Nickel ores and concentrates; nickel mattes, etc",4.0,7.0
+2873,22.21179,10.592006,36.0,Aluminium ores and concentrates (including alumina),1.0,6.0
+2874,15.66226,7.92553,37.0,Lead ores and concentrates,4.0,13.0
+2875,15.981787,8.156302,37.0,Zinc ores and concentrates,4.0,13.0
+2876,17.823038,7.0709796,86.0,Tin ores and concentrates,3.0,9.0
+2877,9.2227125,1.9807318,34.0,Manganese ore and concentrates,5.0,3.0
+2879,16.197409,7.851952,37.0,Ores and concentrates of other non-ferrous base metals,4.0,13.0
+2881,7.9956746,-4.9193163,38.0,"Ash and residues, nes",3.0,14.0
+2882,8.358631,-5.0454183,38.0,"Other non-ferrous base metal waste and scrap, nes",3.0,14.0
+2890,16.988605,8.678855,84.0,"Ores and concentrates of precious metals, waste, scrap",4.0,13.0
+29,16.25893,-3.993356,,,,
+2911,13.119169,1.372362,21.0,"Bones, ivory, horns, coral, shells and similar products",3.0,5.0
+2919,15.956339,-4.991651,3.0,"Other materials of animal origin, nes",9.0,0.0
+2922,18.976622,5.411526,17.0,"Natural gums, resins, lacs and balsams",7.0,4.0
+2923,10.31168,8.06434,76.0,Vegetable plaiting materials,4.0,17.0
+2924,18.62424,4.7976255,17.0,Plants and parts of trees used in perfumery; in pharmacy; etc,7.0,4.0
+2925,10.143614,3.083242,39.0,"Seeds, fruits and spores, nes, for planting",4.0,3.0
+2926,9.694885,2.9056327,39.0,"Live plants, bulbs, etc",4.0,3.0
+2927,10.296418,3.411922,39.0,Cut flowers and foliage,4.0,3.0
+2929,18.311752,5.2147236,17.0,"Other materials of vegetable origin, nes",7.0,4.0
+3,16.28481,-4.539063,,,,
+30,19.72273,4.978721,,,,
+31,3.3275228,11.1118765,,,,
+32,13.656426,1.5719247,,,,
+3221,21.86878,9.063063,40.0,"Anthracite, not agglomerated",3.0,7.0
+3222,21.877773,9.527559,40.0,"Other coal, not agglomerated",3.0,7.0
+3223,20.792,10.201806,41.0,"Lignite, not agglomerated",3.0,7.0
+3224,20.985065,10.384135,41.0,"Peat, not agglomerated",3.0,7.0
+3231,21.520851,10.916914,41.0,"Briquettes, ovoids, from coal, lignite or peat",3.0,7.0
+3232,22.257004,9.626348,40.0,"Coke and semi-coke of coal, of lignite or peat; retort carbon",3.0,7.0
+33,8.75614,-5.582627,,,,
+3330,18.316422,11.816044,43.0,Crude petroleum and oils obtained from bituminous materials,4.0,8.0
+3341,17.738276,11.442119,42.0,Gasoline and other light oils,6.0,8.0
+3342,17.432087,11.125957,42.0,Kerosene and other medium oils,6.0,8.0
+3343,17.48563,11.761263,42.0,Gas oils,6.0,8.0
+3344,16.944212,11.2518425,42.0,"Fuel oils, nes",6.0,8.0
+3345,18.133778,11.431515,42.0,"Lubricating petroleum oils, and preparations, nes",6.0,8.0
+3351,0.9334934,10.697589,46.0,Petroleum jelly and mineral waxes,7.0,10.0
+3352,0.94930625,11.02251,46.0,Mineral tars and products,7.0,10.0
+3353,-0.49270606,1.3152026,89.0,"Mineral tar pitch, pitch coke",4.0,15.0
+3354,17.212713,11.560266,42.0,"Petroleum bitumen, petroleum coke and bituminous mixtures, nes",6.0,8.0
+34,9.759243,2.0667572,,,,
+3413,18.137579,12.203941,43.0,"Petroleum gases and other gaseous hydrocarbons, nes, liquefied",4.0,8.0
+3414,17.785295,12.506703,43.0,"Petroleum gases, nes, in gaseous state",4.0,8.0
+3415,2.4203658,11.948984,94.0,"Coal gas, water gas and similar gases",30.0,10.0
+35,-8.341527,1.9515703,,,,
+3510,1.6174788,0.23213516,92.0,Electric current,41.0,15.0
+36,-8.0534525,2.376147,,,,
+37,16.520992,7.833003,,,,
+38,8.154999,-5.1406817,,,,
+39,9.981145,2.7758713,,,,
+4,16.659376,-4.2117515,,,,
+40,-8.469911,1.645431,,,,
+41,-8.530104,2.5432966,,,,
+4111,22.429077,5.5100293,6.0,Fat and oils of fish and marine mammals,8.0,1.0
+4113,15.582153,-5.16285,3.0,"Animals oils, fats and greases, nes",9.0,0.0
+42,-2.4622536,15.173447,,,,
+4232,8.415249,4.037908,44.0,Soya bean oil,10.0,2.0
+4233,8.167011,4.3889284,44.0,Cotton seed oil,10.0,2.0
+4234,8.728721,3.4690359,44.0,Groundnut (peanut) oil,10.0,2.0
+4235,10.663182,1.4319018,12.0,Olive oil,15.0,3.0
+4236,8.2690115,3.3888834,44.0,Sunflower seed oil,10.0,2.0
+4239,16.968674,-3.0367324,2.0,"Other fixed vegetable oils, soft",6.0,0.0
+4241,0.14502692,12.121789,57.0,Linseed oil,11.0,10.0
+4242,16.95683,6.4468017,45.0,Palm oil,3.0,9.0
+4243,17.310158,7.665295,22.0,Coconut (copra) oil,2.0,9.0
+4244,17.316706,6.3242035,45.0,Palm kernel oil,3.0,9.0
+4245,19.55482,6.3824334,27.0,Castor oil,3.0,4.0
+4249,8.905065,3.739124,44.0,"Fixed vegetable oils, nes",10.0,2.0
+43,-2.1306171,14.899637,,,,
+4311,-0.709471,12.254378,55.0,Processed animal and vegetable oils,19.0,10.0
+4312,8.451663,3.7393644,44.0,Hydrogenated animal or vegetable oils and fats,10.0,2.0
+4313,8.009759,3.9470975,44.0,"Fatty acids, acid oils, and residues; degras",10.0,2.0
+4314,9.416117,3.3402042,28.0,Waxes of animal or vegetable origin,5.0,2.0
+44,8.7146635,4.4577904,,,,
+45,17.133461,6.787658,,,,
+46,3.485882,10.831377,,,,
+47,1.9596065,10.940823,,,,
+48,1.167846,2.528877,,,,
+49,9.270597,-5.869946,,,,
+5,16.662073,-3.9664185,,,,
+50,-8.783995,1.6296523,,,,
+51,-9.20498,1.5110748,,,,
+5111,0.66161966,10.986483,46.0,Acyclic hydrocarbons,7.0,10.0
+5112,0.6890147,10.180963,46.0,Cyclic hydrocarbons,7.0,10.0
+5113,0.67278767,10.588355,46.0,Halogenated derivatives of hydrocarbons,7.0,10.0
+5114,-2.0890737,2.6430297,48.0,"Hydrocarbons derivatives, nonhaloganeted",8.0,15.0
+5121,-0.80067706,10.8834095,59.0,"Acyclic alcohols, and their derivatives",5.0,10.0
+5122,-2.5916464,3.3802807,48.0,"Cyclic alcohols, and their derivatives",8.0,15.0
+5123,-2.3669033,3.1535077,48.0,"Phenols and phenol-alcohols, and their derivatives",8.0,15.0
+5137,-2.157567,2.9141016,48.0,Monocarboxylic acids and their derivatives,8.0,15.0
+5138,7.111887,9.458698,67.0,Polycarboxylic acids and their derivatives,7.0,12.0
+5139,-1.3520362,10.834955,47.0,"Oxygen-function acids, and their derivatives",14.0,10.0
+5145,-1.1584576,10.625692,47.0,Amine-function compounds,14.0,10.0
+5146,-0.7970536,10.24415,47.0,Oxygen-function amino-compounds,14.0,10.0
+5147,-0.88233733,10.510575,47.0,Amide-function compounds; excluding urea,14.0,10.0
+5148,-0.95914006,9.968872,47.0,Other nitrogen-function compounds,14.0,10.0
+5154,-1.695969,10.536306,47.0,Organo-sulphur compounds,14.0,10.0
+5155,-2.0131216,10.820095,47.0,Other organo-inorganic compounds,14.0,10.0
+5156,-1.4689262,10.342636,47.0,Heterocyclic compound; nucleic acids,14.0,10.0
+5157,-2.0648754,10.308052,47.0,"Sulphonamides, sultones and sultams",14.0,10.0
+5161,0.39735317,9.942877,46.0,"Ethers, epoxides, acetals",7.0,10.0
+5162,-2.3779528,2.6702156,48.0,"Aldehyde, ketone and quinone-function compounds",8.0,15.0
+5163,2.3265162,11.463797,94.0,"Inorganic esters, their salts and derivatives",30.0,10.0
+5169,-0.6748574,11.067767,59.0,"Organic chemicals, nes",5.0,10.0
+52,7.4609404,-6.8084927,,,,
+5221,8.702433,-6.246568,88.0,Chemical elements,21.0,14.0
+5222,7.5156527,-5.0258956,53.0,Inorganic acids and oxygen compounds of non-metals,7.0,14.0
+5223,-1.826772,2.7726915,48.0,Halogen and sulphur compounds of non-metals,8.0,15.0
+5224,-2.5561383,2.8523374,48.0,"Metallic oxides of zinc, iron, lead, chromium etc",8.0,15.0
+5225,-0.33899617,10.774127,59.0,"Inorganic bases and metallic oxides, hydroxides and peroxides",5.0,10.0
+5231,9.587279,-5.5507293,49.0,Metallic salts and peroxysalts of inorganic acids,6.0,14.0
+5232,9.589477,-6.0283384,49.0,Metallic salts and peroxysalts of inorganic acids,6.0,14.0
+5233,9.980301,-5.849065,49.0,Salts of metallic acids; compounds of precious metals,6.0,14.0
+5239,20.36613,9.690082,50.0,"Inorganic chemical products, nes",3.0,7.0
+5241,20.738457,8.925099,51.0,"Radio-active chemical elements, isotopes etc",3.0,7.0
+5249,0.61406493,11.92737,57.0,Other radio-active and associated materials,11.0,10.0
+53,7.7890944,-5.3269677,,,,
+5311,-1.2098871,3.516877,91.0,"Synthetic organic dyestuffs, etc, natural indigo and colour lakes",10.0,15.0
+5312,-1.4723035,3.4220586,91.0,"Synthetic organic luminophores, indigo, lakes",10.0,15.0
+5322,9.592662,-5.763792,49.0,"Dyeing, tanning extracts, tannins and their derivatives",6.0,14.0
+5323,-0.32992363,10.271214,58.0,Synthetic tanning substances; tanning preparations,6.0,10.0
+5331,0.960876,11.400785,57.0,Other colouring matter; inorganic products use as luminophores,11.0,10.0
+5332,-1.0199169,11.296101,55.0,Printing inks,19.0,10.0
+5334,7.463135,-7.6162233,52.0,Varnishes and lacquers; distempers etc,17.0,14.0
+5335,7.0198493,-7.241753,52.0,"Glazes, driers, putty etc",17.0,14.0
+54,1.7047765,1.5994264,,,,
+5411,-1.617937,10.921527,47.0,Provitamins and vitamins,14.0,10.0
+5413,-1.7102708,10.028245,47.0,"Antibiotics, not put up as medicaments",14.0,10.0
+5414,-1.2047229,10.301166,47.0,"Vegetable alkaloids and derivatives, not put up as medicaments",14.0,10.0
+5415,-1.3203288,9.857226,47.0,"Hormones, natural, or reproduce by synthesis, in bulk",14.0,10.0
+5416,-1.1666318,11.771803,55.0,"Glycosides, glands, antisera, vaccines and similar products",19.0,10.0
+5417,6.7201233,-7.6942835,113.0,Medicaments (including veterinary medicaments),18.0,14.0
+5419,6.595308,-7.3164477,113.0,"Pharmaceutical goods, other than medicaments",18.0,14.0
+55,2.703709,11.442122,,,,
+5513,18.684998,5.284627,17.0,"Essential oil, resinoid, etc",7.0,4.0
+5514,-1.728529,11.3094,47.0,"Mixtures of odoriferous substances, used in perfumery, food etc",14.0,10.0
+5530,7.5788217,-7.1854167,52.0,"Perfumery, cosmetics, toilet preparations, etc",17.0,14.0
+5541,8.1716,-6.8796744,52.0,"Soaps, organic products and preparations for use as soap",17.0,14.0
+5542,7.391685,-8.040588,52.0,"Organic surface-active agents, nes",17.0,14.0
+5543,7.868081,-7.090931,52.0,"Polishes and creams, for furniture, floors, footwear, metals etc",17.0,14.0
+56,3.0033302,11.345896,,,,
+5621,7.7712383,-4.5702024,53.0,"Mineral or chemical fertilizers, nitrogenous",7.0,14.0
+5622,7.6541758,-4.7501593,53.0,"Mineral or chemical fertilizers, phosphatic",7.0,14.0
+5623,7.3995423,-4.390712,53.0,"Mineral or chemical fertilizer, potassic",7.0,14.0
+5629,7.0668654,-4.6655765,53.0,"Fertilizers, nes",7.0,14.0
+57,3.7305663,11.259675,,,,
+5721,-1.2664223,1.8803362,54.0,Propellent powders and other prepared explosives,2.0,15.0
+5722,-1.0055971,1.7479303,54.0,"Fuses, caps, igniters, detonators",2.0,15.0
+5723,2.1347232,11.200775,94.0,Pyrotechnic articles,30.0,10.0
+58,3.1701913,10.276903,,,,
+5821,-0.21179676,11.7809305,55.0,Phenoplasts,19.0,10.0
+5822,-0.46150947,11.8234005,55.0,Aminoplasts,19.0,10.0
+5823,-0.79263043,11.639164,55.0,Alkyds and other polyesters,19.0,10.0
+5824,-0.52270555,11.525952,55.0,Polyamides,19.0,10.0
+5825,-0.15788126,12.069031,55.0,Polyurethanes,19.0,10.0
+5826,-0.84424376,11.387052,55.0,Epoxide resins,19.0,10.0
+5827,0.004357815,11.605273,56.0,Silicones,3.0,10.0
+5828,0.49849486,11.383124,56.0,"Ion exchangers of the condensation, polycondensation etc",3.0,10.0
+5829,-1.1706004,12.242963,55.0,"Other condensation, polycodensation or polyaddition products",19.0,10.0
+5831,0.9747939,10.305456,46.0,Polyethylene,7.0,10.0
+5832,-0.2950716,12.285562,55.0,Polypropylene,19.0,10.0
+5833,-0.61502457,12.012026,55.0,Polystyrene and its copolymers,19.0,10.0
+5834,0.9150188,11.650837,57.0,Polyvinyl chloride,11.0,10.0
+5835,-0.51604867,11.250652,55.0,Copolymers of vinyl chloride and vinyl acetate,19.0,10.0
+5836,-0.75622344,12.576935,55.0,Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers,19.0,10.0
+5837,-1.3256822,11.481318,55.0,Polyvinyl acetate,19.0,10.0
+5838,0.25417018,11.386333,56.0,Ion exchangers of the polymerization or copolymerization type,3.0,10.0
+5839,-0.26504517,12.616008,55.0,Other polymerization and copolymarization products,19.0,10.0
+5841,0.16803002,12.4545965,57.0,Regenerated cellulose,11.0,10.0
+5842,0.98130155,11.909104,57.0,Cellulose nitrates,11.0,10.0
+5843,0.35214925,11.878772,57.0,Cellulose acetates,11.0,10.0
+5849,0.9730382,12.262802,57.0,Other chemical derivatives of cellulose; vulcanized fibre,11.0,10.0
+5851,6.877979,-6.9297976,113.0,Modified natural resins etc; derivatives of natural rubber,18.0,14.0
+5852,6.9913244,-7.499356,113.0,"Other artificial plastic materials, nes",18.0,14.0
+59,2.6018674,11.016378,,,,
+5911,-0.506629,10.104376,58.0,"Insecticides, for sale by retail or as preparations",6.0,10.0
+5912,-0.08307052,9.747876,58.0,"Fungicides, for sale by retail or as preparation",6.0,10.0
+5913,-0.03199768,10.049838,58.0,"Herbicides, for sale by retail or as preparation",6.0,10.0
+5914,-0.5575664,9.772446,58.0,"Disinfectants, etc, for sale by retail or as preparation",6.0,10.0
+5921,16.488276,-3.5006883,18.0,"Starches, insulin and wheat gluten",3.0,0.0
+5922,17.534777,-4.795049,4.0,Albuminoid substances; glues,10.0,0.0
+5981,0.5567956,12.297489,57.0,Woods and resin-based chemical products,11.0,10.0
+5982,-3.3248959,0.9615077,95.0,"Anti-knock preparation, anti-corrosive; viscosity improvers; etc",29.0,15.0
+5983,-0.65856004,10.625878,59.0,"Organic chemical products, nes",5.0,10.0
+5989,-0.9303012,11.8964205,55.0,"Chemical products and preparations, nes",19.0,10.0
+6,21.563433,5.1113477,,,,
+60,13.57159,1.0817251,,,,
+61,11.461406,4.5110164,,,,
+6112,8.041732,-5.8743296,72.0,"Composition leather, in slabs, sheets or rolls",6.0,14.0
+6113,13.631772,2.2349076,20.0,Calf leather,4.0,5.0
+6114,14.021127,2.405597,20.0,Leather of other bovine cattle and equine leather,4.0,5.0
+6115,13.72362,0.7170113,60.0,Sheep and lamb skin leather,4.0,5.0
+6116,13.938047,1.2161672,60.0,Leather of other hides or skins,4.0,5.0
+6118,14.39962,1.2918605,60.0,"Leather, specially dressed or finished, nes",4.0,5.0
+6121,9.16721,7.2727313,61.0,"Articles of leather use in machinery or mechanical appliances, etc",3.0,17.0
+6122,9.04792,7.5595555,61.0,"Saddlery and harness, of any material, for any kind of animal",3.0,17.0
+6123,8.813192,8.117151,108.0,Parts of footwear of any material except metal and asbestos,16.0,17.0
+6129,8.87042,7.1046796,61.0,Other articles of leather or of composition leather,3.0,17.0
+6130,9.603311,-5.0038657,107.0,"Furskins, tanned or dressed; pieces of furskin, tanned or dressed",12.0,14.0
+62,1.0435927,1.9928607,,,,
+6210,-3.1028671,-0.13848199,95.0,Materials of rubber,29.0,15.0
+6251,-1.9872109,2.256514,62.0,"Tires, pneumatic, new, for motor cars",5.0,15.0
+6252,-2.1824868,2.4011495,62.0,"Tires, pneumatic, new, for buses and lorries",5.0,15.0
+6253,-2.3441026,2.1778767,62.0,"Tires, pneumatic, new, for aircraft",5.0,15.0
+6254,-2.1602097,1.9430361,62.0,"Tires, pneumatic, new, for motorcycles and bicycles",5.0,15.0
+6259,-2.4952772,2.3837838,62.0,"Other tires, tire cases, tire flaps and inner tubes, etc",5.0,15.0
+6281,7.8159523,11.4286175,114.0,"Hygienic, pharmaceutical articles of unhardened vulcanized rubber",10.0,12.0
+6282,-3.309163,0.55190915,95.0,"Transmission, conveyor or elevator belts, of vulcanized rubber",29.0,15.0
+6289,8.519369,-4.8339734,106.0,"Other articles of rubber, nes",12.0,14.0
+63,16.069677,6.5220423,,,,
+6330,10.560406,3.094443,24.0,Cork manufactures,2.0,3.0
+6341,16.386246,6.358337,63.0,"Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness",6.0,11.0
+6342,16.60529,5.9776444,63.0,Plywood consisting solely of sheets of wood,6.0,11.0
+6343,10.39246,-5.6606073,107.0,Improved wood and reconstituted wood,12.0,14.0
+6344,16.190254,6.0227914,63.0,"Wood-based panels, nes",6.0,11.0
+6349,15.837773,5.6799235,63.0,"Wood, simply shaped, nes",6.0,11.0
+6351,8.906642,-6.786488,88.0,"Wood packing cases, boxes, cases, crates, etc, complete",21.0,14.0
+6352,8.867097,-4.5125465,106.0,"Casks, barrels; other coopers products and parts, including staves",12.0,14.0
+6353,9.803712,-4.7876134,107.0,Builders` carpentry and joinery (including prefabricated),12.0,14.0
+6354,9.942484,-5.2812953,107.0,Manufactures of wood for domestic or decorative use,12.0,14.0
+6359,10.02624,-5.5413666,107.0,"Manufactured articles of wood, nes",12.0,14.0
+64,7.6925664,-6.4269934,,,,
+6411,15.10418,6.4856224,26.0,Newsprint,6.0,11.0
+6412,0.5057771,0.51853365,92.0,"Printing paper and writing paper, in rolls or sheets",41.0,15.0
+6413,7.5110407,-6.123448,64.0,"Kraft paper and paperboard, in rolls or sheets",10.0,14.0
+6415,7.1215515,-6.157737,64.0,"Paper and paperboard, in rolls or sheets, nes",10.0,14.0
+6416,10.427433,-5.208765,107.0,Fibre building board of wood or other vegetable material,12.0,14.0
+6417,6.834477,-6.092939,64.0,"Paper and paperboard, creped, crinkled, etc, in rolls or sheets",10.0,14.0
+6418,7.0836325,-6.5004253,64.0,"Paper and paperboard, coated, impregnated, etc, in rolls or sheets",10.0,14.0
+6419,-0.30712295,3.2503443,93.0,"Converted paper and paperboard, nes",16.0,15.0
+6421,7.3569713,-7.3689165,52.0,"Packing containers, box files, etc, of paper, used in offices",17.0,14.0
+6422,6.414023,-6.2760067,113.0,Correspondence stationary,18.0,14.0
+6423,7.217299,-5.946101,64.0,"Registers, exercise books, file and book covers, etc, of paper",10.0,14.0
+6424,6.5629706,-5.9313097,64.0,"Paper and paperboard cut to size or shape, nes",10.0,14.0
+6428,7.0583935,-6.795618,64.0,"Articles of paper pulp, paper, paperboard or cellulose wadding, nes",10.0,14.0
+65,9.566181,7.281406,,,,
+6511,7.953888,9.878485,65.0,Silk yarn and spun from noil or waste; silkworm gut,3.0,12.0
+6512,8.76761,-6.009357,33.0,Yarn of wool or animal hair (including wool tops),4.0,14.0
+6513,6.560197,10.807762,66.0,Cotton yarn,5.0,12.0
+6514,6.80803,9.26123,67.0,"Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc",7.0,12.0
+6515,6.9157305,9.791344,67.0,"Yarn containing 85% or more of synthetic fibres, put up for retail",7.0,12.0
+6516,6.2683573,9.945196,67.0,Yarn containing less than 85% of discontinuous synthetic fibres,7.0,12.0
+6517,6.6600513,9.707181,67.0,"Yarn of regenerated fibres, not for retail, monofil, strip, etc",7.0,12.0
+6518,6.371867,9.483599,67.0,"Yarn of regenerated fibres, put up for retail sale",7.0,12.0
+6519,7.9227085,9.513607,65.0,"Yarn of textile fibres, nes",3.0,12.0
+6521,6.226042,10.361972,66.0,"Cotton fabrics, woven, unbleached, not mercerized",5.0,12.0
+6522,6.4670534,10.543511,66.0,"Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished",5.0,12.0
+6531,8.399526,10.347086,68.0,"Fabrics, woven, of continuous synthetic textile materials",9.0,12.0
+6532,8.506902,10.02645,68.0,"Fabrics, woven, 85% plus of discontinuous synthetic fibres",9.0,12.0
+6534,8.72428,10.6598425,68.0,"Fabrics, woven, less 85% of discontinuous synthetic fibres",9.0,12.0
+6535,7.629651,9.446922,69.0,"Fabric, woven of continuous regenerated textile materials",4.0,12.0
+6536,7.4776773,9.81352,69.0,"Fabrics, woven, 85% plus of discontinuous regenerated fibres",4.0,12.0
+6538,7.3825912,9.200069,69.0,"Fabrics, woven, less 85% of discontinuous regenerated fibres",4.0,12.0
+6539,8.029025,10.280483,68.0,"Pile and chenille fabrics, woven, of man-made fibres",9.0,12.0
+6541,7.694269,9.905008,65.0,"Fabrics, woven, of silk, of noil or other waste silk",3.0,12.0
+6542,8.988452,-5.8555155,70.0,"Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair",2.0,14.0
+6543,9.156051,-5.6656003,70.0,"Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes",2.0,14.0
+6544,7.2600975,9.694603,69.0,"Fabrics, woven, of flax or of ramie",4.0,12.0
+6545,8.816674,10.27583,68.0,"Fabrics, woven of jute or other textile bast fibres of heading 2640",9.0,12.0
+6546,1.2278137,0.029794853,92.0,"Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)",41.0,15.0
+6549,8.161862,10.510818,68.0,"Fabrics, woven, nes",9.0,12.0
+6551,8.462104,10.808136,71.0,"Knitted etc, not elastic nor rubberized, of synthetic fibres",3.0,12.0
+6552,8.171231,10.765224,71.0,"Knitted, not elastic nor rubberized, of fibres other than synthetic",3.0,12.0
+6553,8.605838,11.146726,71.0,"Knitted or crocheted fabrics, elastic or rubberized",3.0,12.0
+6560,8.283124,9.547413,68.0,"Tulle, lace, embroidery, ribbons, trimmings and other small wares",9.0,12.0
+6571,6.049313,-6.075662,113.0,"Felt, articles of felt, nes, whether or not impregnated or coated",18.0,14.0
+6572,7.627086,-5.684419,72.0,"Bonded fibre fabrics, etc, whether or not impregnated or coated",6.0,14.0
+6573,7.773938,-6.136329,72.0,"Coated or impregnated textile fabrics and products, nes",6.0,14.0
+6574,8.206068,9.947003,68.0,Elastic fabrics and trimming (not knitted or crocheted),9.0,12.0
+6575,10.748755,7.434512,73.0,"Twine, cordage, ropes and cables and manufactures thereof",7.0,17.0
+6576,9.587011,6.9442306,79.0,"Hat shapes, hat-forms, hat bodies and hoods",4.0,17.0
+6577,0.39115286,-0.005431098,92.0,"Wadding, wicks and textiles fabrics for use in machinery or plant",41.0,15.0
+6579,7.5447655,-5.906085,72.0,Special products of textile materials,6.0,14.0
+6581,11.230735,7.4721704,73.0,"Bags, sacks of textile materials, for the packing of goods",7.0,17.0
+6582,10.599376,7.0186243,73.0,"Tarpaulins, sails, tents, camping goods, etc, of textile fabrics",7.0,17.0
+6583,11.279968,7.139093,73.0,"Travelling rugs, blankets (non electric), not knitted or crocheted",7.0,17.0
+6584,10.748723,6.6689386,73.0,"Linens and furnishing articles of textile, not knitted or crocheted",7.0,17.0
+6589,11.149823,6.756373,73.0,"Other made-up articles of textile materials, nes",7.0,17.0
+6591,-0.22645736,0.16376157,92.0,Linoleum and similar floor covering,41.0,15.0
+6592,10.750581,2.526002,74.0,"Carpets, carpeting and rugs, knotted",2.0,3.0
+6593,11.229871,2.838738,74.0,"Kelem, Schumacks and Karamanie rugs and the like",2.0,3.0
+6594,8.51321,-5.5127363,75.0,"Carpets, rugs, mats, of wool or fine animal hair",3.0,14.0
+6595,8.7398815,-5.3461533,75.0,"Carpets, rugs, mats, of man-made textile materials, nes",3.0,14.0
+6596,8.494558,-5.2307134,75.0,"Carpets, rugs, mats, of other textile materials, nes",3.0,14.0
+6597,10.151203,8.207542,76.0,"Plaits, plaited products for all uses; straw envelopes for bottles",4.0,17.0
+66,9.198074,7.687103,,,,
+6611,7.791838,-7.972777,52.0,"Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)",17.0,14.0
+6612,7.165893,-5.676872,81.0,Cement,6.0,14.0
+6613,10.212047,-4.754513,107.0,"Building and monumental stone, worked, and articles thereof",12.0,14.0
+6618,8.63445,-6.859753,88.0,"Construction materials, of asbestos-cement or fibre-cements, etc",21.0,14.0
+6623,-3.024804,0.6509506,95.0,Refractory bricks and other refractory construction materials,29.0,15.0
+6624,10.59373,-4.6965985,107.0,"Non-refractory ceramic bricks, tiles, pipes and similar products",12.0,14.0
+6631,0.11507058,0.18620326,92.0,"Hand polishing stone, grindstones, grinding wheels, etc",41.0,15.0
+6632,-0.24620914,0.51829135,92.0,"Abrasive power or grain, on a base of woven fabrics",41.0,15.0
+6633,9.250565,-6.611096,88.0,"Manufactures of mineral materials, nes (other than ceramic)",21.0,14.0
+6635,1.2612801,-0.39746916,92.0,"Wool; expanding or insulating mineral materials, nes",41.0,15.0
+6637,-2.645069,-0.17819154,95.0,"Refractory goods, nes",29.0,15.0
+6638,-3.4263492,1.9307319,102.0,Manufactures of asbestos; friction materials,14.0,15.0
+6639,0.8178096,0.019383268,92.0,"Articles of ceramic materials, nes",41.0,15.0
+6641,-3.06204,0.99225914,95.0,"Glass in the mass, in balls, rods or tubes (nonoptical); waste",29.0,15.0
+6642,7.9710455,-6.3601093,77.0,Optical glass and elements of optical glass (unworked),3.0,14.0
+6643,10.023445,6.8295197,78.0,"Drawn or blown glass (flashed glass), unworked, in rectangles",3.0,17.0
+6644,-3.000734,2.4986129,102.0,"Glass, cast, rolled, etc, surface-ground, but no further worked",14.0,15.0
+6645,10.344182,6.9551783,78.0,"Cast, rolled glass (flashed or wired), unworked, in rectangles",3.0,17.0
+6646,9.837701,-6.173167,88.0,"Bricks, tiles, etc of pressed or moulded glass, used in building",21.0,14.0
+6647,-3.8306928,2.5660522,102.0,"Safety glass consisting of toughened or laminated glass, cut or not",14.0,15.0
+6648,9.156518,-4.324608,106.0,"Glass mirror, unframed, framed or backed",12.0,14.0
+6649,9.927928,-6.44956,88.0,"Glass, nes",21.0,14.0
+6651,7.087086,-7.8428,52.0,Bottles etc of glass,17.0,14.0
+6652,9.28941,-4.948628,106.0,"Glassware (other than heading 66582), for indoor decoration",12.0,14.0
+6658,7.771367,10.77775,115.0,"Articles made of glass, nes",5.0,12.0
+6664,9.651316,6.652339,79.0,Porcelain or china house ware,4.0,17.0
+6665,9.956572,6.4063053,79.0,"Articles of domestic or toilet purposes, of other kind of pottery",4.0,17.0
+6666,9.1952095,6.7543592,79.0,"Ornaments, personal articles of porcelain, china, or ceramic, nes",4.0,17.0
+6671,7.2991915,11.139502,111.0,"Pearls, not mounted, set or strung",5.0,12.0
+6672,10.205426,7.6239023,80.0,"Diamonds (non-industrial), not mounted or set",2.0,17.0
+6673,20.156948,5.0279756,30.0,"Precious and semi-precious stones, not mounted, set or strung",5.0,4.0
+6674,7.0258646,11.262883,111.0,Synthetic or reconstructed precious or semi-precious stones,5.0,12.0
+67,9.022377,7.0433736,,,,
+6712,20.742117,9.842225,50.0,"Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc",3.0,7.0
+6713,-0.4398229,10.553734,59.0,"Iron and steel powders, shot or sponge",5.0,10.0
+6716,20.439201,10.072912,50.0,Ferro-alloys,3.0,7.0
+6724,7.733134,-4.208018,82.0,"Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel",13.0,14.0
+6725,8.124041,-4.151419,82.0,"Blooms, billets, slabs and sheet bars, of iron or steel",13.0,14.0
+6727,8.801848,-3.6583998,82.0,Iron or steel coils for re-rolling,13.0,14.0
+6731,7.3129425,-5.2509894,81.0,Wire rod of iron or steel,6.0,14.0
+6732,6.9146585,-5.666112,81.0,"Bars, rods (not wire rod), from iron or steel; hollow mining drill",6.0,14.0
+6733,7.062399,-5.241359,81.0,"Angles, shapes, sections and sheet piling, of iron or steel",6.0,14.0
+6741,8.5063505,-4.161957,82.0,Universal plates of iron or steel,13.0,14.0
+6744,7.9819474,-3.4147213,82.0,"Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel",13.0,14.0
+6745,9.204645,-3.8380423,82.0,"Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel",13.0,14.0
+6746,8.8545065,-3.2506886,82.0,"Sheet, plates, rolled of thickness less 3mm, of iron or steel",13.0,14.0
+6747,8.560115,-3.8963664,82.0,"Tinned sheets, plates of steel (not of high carbon or alloy steel)",13.0,14.0
+6749,7.92141,-3.8411055,82.0,"Other sheet and plates, of iron or steel, worked",13.0,14.0
+6750,8.255895,-3.7911086,82.0,"Hoop and strip of iron or steel, hot-rolled or cold-rolled",13.0,14.0
+6760,-2.1792653,0.089434676,95.0,"Rails and railway track construction materials, of iron or steel",29.0,15.0
+6770,6.651791,-5.493624,81.0,"Iron or steel wire (excluding wire rod), not insulated",6.0,14.0
+6781,-2.071281,1.3001275,83.0,"Tubes and pipes, of cast iron",3.0,15.0
+6782,-2.1021643,1.5647968,83.0,"Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel",3.0,15.0
+6783,9.51696,-6.528045,88.0,"Other tubes and pipes, of iron or steel",21.0,14.0
+6784,-2.2736118,1.69939,83.0,High-pressure hydro-electric conduit of steel,3.0,15.0
+6785,9.1605625,-6.942941,88.0,"Tube and pipes fittings, of iron or steel",21.0,14.0
+6793,8.968091,-6.211482,88.0,"Steel and iron forging and stampings, in the rough state",21.0,14.0
+6794,9.038361,-6.4649115,88.0,"Castings of iron or steel, in rough state",21.0,14.0
+68,9.783617,7.210065,,,,
+6811,17.326584,8.0083065,84.0,"Silver, unwrought, unworked, or semi-manufactured",4.0,13.0
+6812,-2.0034103,3.1042666,48.0,"Metals of platinum group, unwrought, unworked, or semi-manufactured",8.0,15.0
+6821,16.609056,8.607955,87.0,"Copper and copper alloys, refined or not, unwrought",4.0,13.0
+6822,8.424342,-3.424838,82.0,"Copper and copper alloys, worked",13.0,14.0
+6831,20.280207,10.387182,85.0,"Nickel and nickel alloys, unwrought",4.0,7.0
+6832,20.622292,10.628624,85.0,"Nickel and nickel alloys, worked",4.0,7.0
+6841,7.5423107,-3.829903,82.0,"Aluminium and aluminium alloys, unwrought",13.0,14.0
+6842,5.5204587,-7.248035,113.0,"Aluminium and aluminium alloys, worked",18.0,14.0
+6851,17.122532,8.3188095,84.0,"Lead, and lead alloys, unwrought",4.0,13.0
+6852,0.13786793,11.776197,57.0,"Lead and lead alloys, worked",11.0,10.0
+6861,16.175142,8.5644655,87.0,"Zinc and zinc alloys, unwrought",4.0,13.0
+6863,8.420318,-6.794114,88.0,Zinc and zinc alloys worked,21.0,14.0
+6871,17.578356,7.4049172,86.0,"Tin and tin alloys, unwrought",3.0,9.0
+6872,17.563562,6.709319,86.0,Tin and tin alloys worked,3.0,9.0
+6880,20.897614,9.246288,51.0,"Uranium depleted in U235, thorium, and alloys, nes; waste and scrap",3.0,7.0
+6891,0.8466432,0.7532631,92.0,"Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap",41.0,15.0
+6899,16.367414,8.960417,87.0,"Base metals, nes and cermets, unwrought (including waste and scrap)",4.0,13.0
+69,9.293286,7.082736,,,,
+6911,9.811107,-6.817249,88.0,"Structures and parts of, of iron, steel; plates, rods, and the like",21.0,14.0
+6912,9.202285,-6.137954,88.0,"Structures and parts of, of aluminium; plates, rods, and the like",21.0,14.0
+6921,8.97496,-7.4646764,88.0,"Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus",21.0,14.0
+6924,6.834511,-6.441028,64.0,"Cask, drums, etc, of iron, steel, aluminium, for packing goods",10.0,14.0
+6931,7.578279,-5.4032717,72.0,"Wire, cables, cordage, ropes, plaited bans, sling and the like",6.0,14.0
+6932,6.808997,-5.0565114,81.0,Barbed iron or steel wire: fencing wire,6.0,14.0
+6935,9.388608,-7.3229494,88.0,"Gauze, cloth, grill, netting, reinforced fabric and the like",21.0,14.0
+6940,-2.553969,0.5473769,95.0,"Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper",29.0,15.0
+6951,6.132565,-6.51715,113.0,"Hand tools, used in agriculture, horticulture or forestry",18.0,14.0
+6953,-0.3487563,-0.04038756,92.0,Other hand tools,41.0,15.0
+6954,-2.8258312,0.43038186,95.0,"Interchangeable tools for hand or machine tools (tips, blades, etc)",29.0,15.0
+6960,8.687261,9.706673,68.0,Cutlery,9.0,12.0
+6973,-1.1109554,2.6330426,100.0,"Domestic, non-electric, heating, cooking apparatus, and parts, nes",10.0,15.0
+6974,8.731176,-4.763003,106.0,"Base metal domestic articles, nes, and parts thereof, nes",12.0,14.0
+6975,9.043818,-4.7039886,106.0,"Base metal indoors sanitary ware, and parts thereof, nes",12.0,14.0
+6978,-1.2190536,1.07341,112.0,"Household appliances, decorative article, etc, of base metal, nes",6.0,15.0
+6991,8.373327,-4.405576,106.0,"Locksmiths wares, safes, etc, and hardware, nes, of base metal",12.0,14.0
+6992,0.008859873,0.438405,92.0,"Chain and parts thereof, of iron or steel",41.0,15.0
+6993,8.377728,-4.6407275,106.0,"Pins, needles, etc, of iron, steel; metal fittings for clothing",12.0,14.0
+6994,-2.6243808,0.15513495,95.0,"Springs and leaves for springs, of iron, steel or copper",29.0,15.0
+6996,6.1181655,-6.8315496,113.0,Miscellaneous articles of base metal,18.0,14.0
+6997,8.555948,-7.238814,88.0,"Articles of iron or steel, nes",21.0,14.0
+6998,6.030856,-7.7804246,113.0,"Articles, nes, of copper, nickel, aluminium, lead, zinc and tin",18.0,14.0
+6999,15.772773,8.5738125,87.0,"Other base metal manufactures, nes; and of cermets",4.0,13.0
+7,21.758776,5.4691205,,,,
+70,8.506147,-6.014638,,,,
+71,9.804733,7.569447,,,,
+7111,-0.1878972,1.4187038,89.0,Steam and other vapour-generated boilers; super-heated water boiler,4.0,15.0
+7112,-0.27493668,1.7339119,89.0,Auxiliary plant for boilers of heading 7111; condensers,4.0,15.0
+7119,-0.5584824,1.6937894,89.0,"Parts, nes of boilers and auxiliary plant of headings 7111 and 7112",4.0,15.0
+7126,-2.29027,0.92010343,95.0,"Steam power units (mobile engines but not steam tractors, etc)",29.0,15.0
+7129,0.63373375,-0.2590902,92.0,"Parts, nes of steam power units",41.0,15.0
+7131,-1.4904157,0.9076242,90.0,"Internal combustion piston engines, for aircraft, and parts, nes",5.0,15.0
+7132,-3.5147426,2.3884544,102.0,"Motor vehicles piston engines, headings: 722; 78; 74411 and 95101",14.0,15.0
+7133,0.438411,0.24147916,92.0,"Internal combustion piston engines, marine propulsion",41.0,15.0
+7138,-2.798913,0.86120117,95.0,"Internal combustion piston engines, nes",29.0,15.0
+7139,-3.752344,1.9585735,102.0,"Piston engines parts, nes, falling in headings: 7132, 7133 and 7138",14.0,15.0
+7144,-1.9612092,0.93961203,90.0,Reaction engines,5.0,15.0
+7148,-1.7431746,0.7531715,90.0,"Gas turbines, nes",5.0,15.0
+7149,-1.5606486,0.5538521,90.0,"Parts, nes of the engines and motors of group 714 and item 71888",5.0,15.0
+7161,-0.062493086,2.298068,93.0,"Motors and generators, direct current",16.0,15.0
+7162,-0.061066628,2.6180062,93.0,"Electric motors, generators (not direct current); generating sets",16.0,15.0
+7163,1.768836,11.382306,94.0,Rotary converters,30.0,10.0
+7169,0.04993844,-0.09553736,92.0,"Parts, nes, of rotating electric plant",41.0,15.0
+7187,-2.1271725,0.6930308,95.0,"Nuclear reactors, and parts thereof, nes",29.0,15.0
+7188,1.5016751,10.732057,94.0,"Engines and motors, nes (wind, hot air engines, water wheel, etc)",30.0,10.0
+72,8.018194,-5.6171765,,,,
+7211,-3.0650258,0.21457893,95.0,"Agricultural and horticultural machinery for soil preparation, etc",29.0,15.0
+7212,1.2691803,10.382786,94.0,"Harvesting and threshing machines; fodder presses, etc; parts nes",30.0,10.0
+7213,1.2299542,10.721077,94.0,"Dairy machinery, nes (including milking machines), and parts nes",30.0,10.0
+7219,1.9382224,10.205675,94.0,"Agricultural machinery and appliances, nes, and parts thereof, nes",30.0,10.0
+7223,-2.500907,1.3047334,95.0,Track-laying tractors,29.0,15.0
+7224,-2.792749,1.512697,95.0,"Wheeled tractors (other than those falling in heading 74411, 7832)",29.0,15.0
+7233,0.26830792,2.3322968,93.0,"Road rollers, mechanically propelled",16.0,15.0
+7234,-0.33452725,2.334431,93.0,"Construction and mining machinery, nes",16.0,15.0
+7239,0.6041057,2.2540805,93.0,"Parts, nes of machinery and equipment of headings 72341 to 72346",16.0,15.0
+7243,8.059979,10.998961,115.0,"Sewing machines, furniture, needles etc, and parts thereof, nes",5.0,12.0
+7244,-1.9582978,3.3832119,91.0,Machines for extruding man-made textile; other textile machinery,10.0,15.0
+7245,-1.6943407,3.6668377,91.0,"Weaving, knitting, etc, machines, machines for preparing yarns, etc",10.0,15.0
+7246,-1.6518811,3.2291586,91.0,Auxiliary machinery for use with those of headings 72451 to 72453,10.0,15.0
+7247,-1.078069,3.8369763,91.0,"Textile machinery, nes for cleaning, cutting, etc, and parts nes",10.0,15.0
+7248,-0.50690794,0.42140225,92.0,"Machinery for preparing, tanning, working leather, etc; parts nes",41.0,15.0
+7251,0.23994327,0.58259207,92.0,"Machinery for making, finishing cellulose pulp, paper or paperboard",41.0,15.0
+7252,2.6798067,10.429215,94.0,"Machinery for making paper pulp, paper, paperboard; cutting machines",30.0,10.0
+7259,2.7814221,10.817372,94.0,"Parts, nes of the machines falling within heading 725",30.0,10.0
+7263,1.3539028,11.664218,94.0,"Machinery, accessories for type-setting, for printing blocks, etc",30.0,10.0
+7264,1.5666542,11.911135,94.0,Printing presses,30.0,10.0
+7267,1.8248396,11.633119,94.0,Other printing machinery; machines for uses ancilliary to printing,30.0,10.0
+7268,1.2132616,1.1103653,92.0,"Bookbinding machinery; parts thereof, nes",41.0,15.0
+7269,1.9619184,12.095464,94.0,"Parts, nes of machines falling within headings 72631, 7264, 7267",30.0,10.0
+7271,2.2524524,9.954907,94.0,"Machinery for the grain milling industry; working cereals, parts",30.0,10.0
+7272,1.8212657,10.591885,94.0,"Other food-processing machinery and parts thereof, nes",30.0,10.0
+7281,0.19193745,1.1651051,92.0,"Machine-tools for specialized industries; parts or accessories, nes",41.0,15.0
+7283,0.11623287,1.9879972,93.0,"Other mineral working machinery; and parts thereof, nes",16.0,15.0
+7284,0.74683475,0.255396,92.0,"Machinery for specialized industries and parts thereof, nes",41.0,15.0
+73,12.4719515,4.3495417,,,,
+7361,-0.15464234,1.1439779,92.0,Metal cutting machine-tools,41.0,15.0
+7362,-0.15701675,0.84238714,92.0,Metal forming machine-tool,41.0,15.0
+7367,-1.5399307,3.9950478,91.0,"Other machines-tools for working metal or metal carbides, nes",10.0,15.0
+7368,0.8232331,-0.55163753,92.0,"Work holders, dividing heads for machine-tools, etc; tool holders",41.0,15.0
+7369,0.9708326,-0.21560784,92.0,"Parts, nes of and accessories for machine-tools of heading 736",41.0,15.0
+7371,0.14111543,0.8254581,92.0,"Metallurgy and metal foundry equipment, and parts thereof, nes",41.0,15.0
+7372,-2.2979622,0.4326018,95.0,"Rolling mills, rolls therefor, and parts, nes of rolling mills",29.0,15.0
+7373,0.9353533,0.4366144,92.0,"Welding, brazing, cutting, etc machines and appliances, parts, nes",41.0,15.0
+74,10.584542,2.074515,,,,
+7411,0.8468716,1.207681,92.0,"Gas generators, and parts, nes of gas generators",41.0,15.0
+7412,1.4039764,10.00312,94.0,"Furnace burners; mechanical stokers, etc, and parts thereof, nes",30.0,10.0
+7413,0.574667,0.80810773,92.0,"Industrial and laboratory furnaces and ovens, etc, parts, nes",41.0,15.0
+7414,1.5299606,11.236973,94.0,"Non-domestic refrigerators and refrigerating equipment, parts, nes",30.0,10.0
+7415,2.2814174,6.588108,97.0,"Air conditioning machines and parts thereof, nes",10.0,16.0
+7416,0.4998536,1.0720398,92.0,"Machinery, plant, laboratory equipment for heating and cooling, nes",41.0,15.0
+7421,-2.5408955,0.83935523,95.0,Reciprocating pumps (other than those of heading 74281),29.0,15.0
+7422,0.019284964,2.9533217,93.0,Centrifugal pumps (other than those of heading 74281),16.0,15.0
+7423,-3.170841,1.4296021,95.0,Rotary pumps (other than those of heading 74281),29.0,15.0
+7428,0.09544301,1.6422118,93.0,Other pumps for liquids and liquid elevators,16.0,15.0
+7429,0.3819909,-0.3071564,92.0,"Parts, nes of pumps and liquids elevators falling in heading 742",41.0,15.0
+7431,-2.9511964,1.2741089,95.0,"Air pumps, vacuum pumps and air or gas compressors",29.0,15.0
+7432,0.3839507,-0.64544433,92.0,"Parts, nes of the pumps and compressor falling within heading 7431",41.0,15.0
+7433,-0.22673249,-0.4311629,92.0,"Free-piston generators for gas turbines and parts thereof, nes",41.0,15.0
+7434,-0.64229846,2.9090111,100.0,"Fans, blowers and the like, and parts thereof, nes",10.0,15.0
+7435,1.2361636,11.054739,94.0,Centrifuges,30.0,10.0
+7436,-2.6797197,1.140595,95.0,"Filtering and purifying machinery, apparatus for liquids and gases",29.0,15.0
+7439,0.068746805,-0.43340558,92.0,"Parts, nes of the machines falling within headings 7435 and 7436",41.0,15.0
+7441,0.5543251,3.0350592,93.0,"Work trucks, of the type use in factories, dock areas, etc",16.0,15.0
+7442,0.32466936,2.6937203,93.0,"Lifting, handling, loading machinery, telphers and conveyors",16.0,15.0
+7449,0.1587317,3.2880726,93.0,"Parts, nes of the machinery falling within heading 7442",16.0,15.0
+7451,0.50060105,1.8668482,93.0,"Power hand tools, pneumatic or non-electric, and parts thereof, nes",16.0,15.0
+7452,1.9412179,11.037657,94.0,"Other non-electrical machines and parts thereof, nes",30.0,10.0
+7491,-3.4361222,1.2336894,95.0,"Ball, roller or needle roller bearings",29.0,15.0
+7492,-3.570092,-0.143141,95.0,"Cocks, valves and similar appliances, for pipes boiler shells, etc",29.0,15.0
+7493,-3.7824175,1.181217,95.0,"Shaft, crank, bearing housing, pulley and pulley blocks, etc",29.0,15.0
+7499,-3.8218837,0.29965252,95.0,"Other non-electric parts and accessories of machinery, nes",29.0,15.0
+75,8.310478,-5.63646,,,,
+7511,1.2109184,0.33713794,92.0,Typewriters; cheque-writing machines,41.0,15.0
+7512,1.6624217,5.889833,96.0,"Calculating, accounting, cash registers, ticketing, etc, machines",7.0,16.0
+7518,1.8004832,5.5123925,96.0,"Office machines, nes",7.0,16.0
+7521,1.5675964,6.401642,96.0,Analogue and hybrid data processing machines,7.0,16.0
+7522,2.6075926,6.801722,97.0,Complete digital data processing machines,10.0,16.0
+7523,1.3995667,6.0950212,96.0,Complete digital central processing units; digital processors,7.0,16.0
+7524,1.2076173,6.5197444,96.0,"Digital central storage units, separately consigned",7.0,16.0
+7525,1.4881697,5.4248757,96.0,"Peripheral units, including control and adapting units",7.0,16.0
+7528,1.2155151,5.7616234,96.0,"Off-line data processing equipment, nes",7.0,16.0
+7591,2.9250908,6.6756635,97.0,"Parts, nes of and accessories for machines of headings 7511 or 7518",10.0,16.0
+7599,3.1801586,6.8834844,97.0,"Parts, nes of and accessories for machines of headings 7512 and 752",10.0,16.0
+76,12.075501,4.8445625,,,,
+7611,1.8215909,5.0472913,98.0,"Television receivers, colour",10.0,16.0
+7612,2.0903664,5.352312,98.0,"Television receivers, monochrome",10.0,16.0
+7621,2.7697086,5.679759,98.0,Radio receivers for motor-vehicles,10.0,16.0
+7622,3.2105193,5.569369,98.0,Portable radio receivers,10.0,16.0
+7628,2.5000973,5.58412,98.0,Other radio receivers,10.0,16.0
+7631,2.8934703,5.0984883,98.0,"Gramophones and record players, electric",10.0,16.0
+7638,2.2648315,4.9190288,98.0,"Other sound recording and reproducer, nes; video recorders",10.0,16.0
+7641,2.570139,5.956185,99.0,Electrical line telephonic and telegraphic apparatus,3.0,16.0
+7642,2.6797748,4.7837615,98.0,Microphones; loud-speakers; audio-frequency electric amplifiers,10.0,16.0
+7643,2.2509227,5.981145,99.0,"Television, radio-broadcasting; transmitters, etc",3.0,16.0
+7648,1.9776454,5.811884,99.0,"Telecommunications equipment, nes",3.0,16.0
+7649,2.1983948,6.82527,97.0,"Parts, nes of and accessories for apparatus falling in heading 76",10.0,16.0
+77,8.255514,-6.057785,,,,
+7711,-0.2638247,1.999279,93.0,"Transformers, electrical",16.0,15.0
+7712,0.016861916,-0.85595584,92.0,"Other electric power machinery, parts, nes",41.0,15.0
+7721,-0.56374454,1.0201933,110.0,"Switches, relays, fuses, etc; switchboards and control panels, nes",10.0,15.0
+7722,2.4457693,7.079173,97.0,"Printed circuits, and parts thereof, nes",10.0,16.0
+7723,2.8495917,7.200979,97.0,"Fixed, variable resistors, other than heating resistors, parts, nes",10.0,16.0
+7731,8.091842,-6.6406565,77.0,"Insulated electric wire, cable, bars, etc",3.0,14.0
+7732,-0.6015897,-0.37152296,92.0,Electrical insulating equipment,41.0,15.0
+7741,2.6698623,11.304263,94.0,Electro-medical equipment,30.0,10.0
+7742,3.033546,11.146543,94.0,"X-ray apparatus and equipment; accessories; and parts, nes",30.0,10.0
+7751,-1.3448353,2.6625185,100.0,"Household laundry equipment, nes",10.0,15.0
+7752,-1.5164813,2.765473,100.0,Domestic refrigerators and freezers,10.0,15.0
+7753,1.6272674,10.322347,94.0,Domestic dishwashing machines,30.0,10.0
+7754,-1.0995213,3.0354917,100.0,"Electric shavers and hair clippers, parts thereof, nes",10.0,15.0
+7757,-1.3323859,3.0517693,100.0,"Domestic electro-mechanical appliances; and parts thereof, nes",10.0,15.0
+7758,-0.8880925,2.8836982,100.0,"Electro-thermic appliances, nes",10.0,15.0
+7761,2.84418,6.1736083,101.0,"Television picture tubes, cathode ray",5.0,16.0
+7762,3.4264183,5.9592366,101.0,Other electronic valves and tubes,5.0,16.0
+7763,2.9982014,5.90352,101.0,"Diodes, transistors, photocells, etc",5.0,16.0
+7764,3.1184669,6.29496,101.0,Electronic microcircuits,5.0,16.0
+7768,3.3953571,6.4687157,101.0,"Crystals, and parts, nes of electronic components of heading 776",5.0,16.0
+7781,1.8810339,7.349495,97.0,"Batteries and electric accumulators, and parts thereof, nes",10.0,16.0
+7782,9.419843,-4.402133,106.0,Electric filament lamps and discharge lamps; arc-lamps,12.0,14.0
+7783,-3.2694547,2.300058,102.0,"Automotive electrical equipment; and parts thereof, nes",14.0,15.0
+7784,1.1439319,0.7666328,92.0,"Electro-mechanical hand tools, and parts thereof, nes",41.0,15.0
+7788,1.9715443,7.017432,97.0,"Other electrical machinery and equipment, nes",10.0,16.0
+78,11.966269,4.0750146,,,,
+7810,-2.8421557,3.0904195,102.0,Passenger motor vehicles (excluding buses),14.0,15.0
+7821,-3.1549053,3.0847208,102.0,Motor vehicles for the transport of goods or materials,14.0,15.0
+7822,-0.3390212,2.861322,93.0,Special purpose motor lorries and vans,16.0,15.0
+7831,-2.8105073,2.7339296,102.0,Public service type passenger motor vehicles,14.0,15.0
+7832,-3.458909,3.3067167,102.0,Road tractors for semi-trailers,14.0,15.0
+7841,-4.03411,2.2328317,102.0,"Chassis fitted with engines, for vehicles of headings 722, 781-783",14.0,15.0
+7842,-3.89195,3.0686457,102.0,"Bodies, for vehicles of headings 722, 781-783",14.0,15.0
+7849,-3.5531042,2.8476255,102.0,"Other parts and accessories, for vehicles of headings 722, 781-783",14.0,15.0
+7851,-2.0484376,3.923734,91.0,"Motorcycles, auto-cycles; side-cars of all kind, etc",10.0,15.0
+7852,7.259433,11.5063715,114.0,"Cycles, not motorized",10.0,12.0
+7853,-0.8897445,2.5749419,100.0,"Invalid carriages; parts, nes of articles of heading 785",10.0,15.0
+7861,9.497936,-6.965256,88.0,Trailers and transports containers,21.0,14.0
+7868,8.869086,-7.137417,88.0,"Other not mechanically propelled vehicles; and parts, nes",21.0,14.0
+79,11.414067,4.146841,,,,
+7911,-2.7778623,1.7222021,103.0,"Rail locomotives, electric",6.0,15.0
+7912,-3.0941446,1.7474022,103.0,Other rail locomotives; tenders,6.0,15.0
+7913,-2.858493,2.1208818,103.0,"Mechanically propelled railway, tramway, trolleys, etc",6.0,15.0
+7914,-2.658894,1.9813014,103.0,"Railway, tramway passenger coaches, etc, not mechanically propelled",6.0,15.0
+7915,-2.7252152,2.3865182,103.0,"Railway and tramway freight, etc, not mechanically propelled",6.0,15.0
+7919,-2.4498692,1.9037077,103.0,"Railway track fixtures, and fittings, etc, parts nes of heading 791",6.0,15.0
+7921,-1.3153242,2.09037,104.0,Helicopters,5.0,15.0
+7922,-1.6469753,2.422994,104.0,Aircraft of an unladen weight not exceeding 2000 kg,5.0,15.0
+7923,-1.6854748,1.9148763,104.0,Aircraft of an unladen weight from 2000 kg to 15000 kg,5.0,15.0
+7924,-1.7129157,2.150842,104.0,Aircraft of an unladen weight exceeding 15000 kg,5.0,15.0
+7928,-1.4858087,2.2695374,104.0,"Aircraft, nes and associated equipment",5.0,15.0
+7929,-1.8975036,0.4185597,90.0,"Parts, nes of the aircraft of heading 792",5.0,15.0
+7931,-0.54306483,2.1274707,105.0,Warships,3.0,15.0
+7932,0.77102256,2.6225631,93.0,"Ships, boats and other vessels",16.0,15.0
+7933,-0.8162494,2.2261038,105.0,"Ships, boats and other vessels for breaking up",3.0,15.0
+7938,-0.6984091,1.8904066,105.0,"Tugs, special purpose vessels and floating structures",3.0,15.0
+8,15.779048,-3.4560046,,,,
+80,11.881173,4.639904,,,,
+81,7.375681,-5.556759,,,,
+8121,1.6100154,-0.22275433,92.0,"Central heating equipment, not electrically heated, parts, nes",41.0,15.0
+8122,8.715029,-5.0429845,106.0,Ceramic plumbing fixtures,12.0,14.0
+8124,8.69123,-4.3678703,106.0,"Lighting fixture and fittings, lamps, lanterns, and parts, nes",12.0,14.0
+82,8.033401,-4.4447093,,,,
+8211,9.791594,-4.4279733,107.0,"Chairs and other seats; and parts thereof, nes",12.0,14.0
+8212,10.170167,-4.3243275,107.0,"Furniture for medical, surgical, dental or veterinary practice",12.0,14.0
+8219,10.061564,-5.0454354,107.0,"Other furniture and parts thereof, nes",12.0,14.0
+83,1.1237319,1.5428123,,,,
+8310,9.391305,8.18305,108.0,"Travel goods, handbags etc, of leather, plastics, textile, others",16.0,17.0
+84,16.701685,8.222137,,,,
+8421,9.311084,7.7747774,108.0,"Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats",16.0,17.0
+8422,9.454941,8.568508,108.0,"Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits",16.0,17.0
+8423,10.019074,8.592182,108.0,"Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like",16.0,17.0
+8424,9.087473,7.9564133,108.0,"Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like",16.0,17.0
+8429,10.199574,8.996802,108.0,"Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments",16.0,17.0
+8431,8.734054,7.6697965,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets",16.0,17.0
+8432,9.878852,8.255274,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes",16.0,17.0
+8433,9.16927,8.376009,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses",16.0,17.0
+8434,9.563285,8.04409,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts",16.0,17.0
+8435,9.116542,8.852479,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses",16.0,17.0
+8439,9.714982,8.454434,108.0,"Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted",16.0,17.0
+8441,10.664338,8.306652,109.0,"Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts",11.0,17.0
+8442,10.488576,8.481062,109.0,"Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts",11.0,17.0
+8443,9.497124,8.9959955,108.0,"Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc",16.0,17.0
+8451,10.95392,8.074297,109.0,"Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc",11.0,17.0
+8452,10.935732,8.41996,109.0,"Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted",11.0,17.0
+8459,10.579813,8.026765,109.0,"Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted",11.0,17.0
+8461,11.08784,8.734705,109.0,"Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized",11.0,17.0
+8462,10.959236,7.6531124,109.0,"Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized",11.0,17.0
+8463,11.179829,7.896795,109.0,"Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized",11.0,17.0
+8464,11.347743,8.350128,109.0,"Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized",11.0,17.0
+8465,10.649771,8.848448,109.0,"Corsets, garters, etc, not knitted or crocheted, elastic or not",11.0,17.0
+8471,-1.6858723,1.3678699,112.0,"Clothing accessories, of textile fabrics, not knitted or crocheted",6.0,15.0
+8472,11.5086,7.9399533,109.0,"Clothing accessories, knitted or crocheted, nes",11.0,17.0
+8481,9.808102,8.852864,108.0,"Articles of apparel, clothing accessories of leather",16.0,17.0
+8482,8.078078,11.485534,114.0,"Articles of apparel, clothing accessories of plastic or rubber",10.0,12.0
+8483,10.357335,6.570798,78.0,Fur clothing (not headgear) and other articles made of furskins,3.0,17.0
+8484,7.580367,12.184836,114.0,"Headgear and fitting thereof, nes",10.0,12.0
+85,-8.736406,2.252359,,,,
+8510,8.841222,8.533323,108.0,Footwear,16.0,17.0
+86,17.318163,7.0960507,,,,
+87,16.365107,8.234953,,,,
+8710,1.130815,-0.8046555,92.0,Optical instruments and apparatus,41.0,15.0
+8720,2.7624974,11.680984,94.0,"Medical instruments and appliances, nes",30.0,10.0
+8731,-0.8736372,0.746696,110.0,"Gas, liquid and electricity supply or production meters; etc",10.0,15.0
+8732,-3.580323,0.74416214,95.0,Counting devices non-electrical; stroboscopes,29.0,15.0
+8741,-1.171483,0.5771796,110.0,"Surveying, navigational, compasses, etc, instruments, nonelectrical",10.0,15.0
+8742,-1.6154844,0.083553106,110.0,"Drawing, marking-out and mathematical calculating instruments, etc",10.0,15.0
+8743,-0.75962234,0.5161437,110.0,"Gas, liquid control instruments and apparatus, non-electrical",10.0,15.0
+8744,-1.1514127,-0.08218206,110.0,"Nonmechanical or electrical instruments for physical, etc, analysis",10.0,15.0
+8745,-1.3374887,0.33540097,110.0,"Measuring, controlling and scientific instruments, nes",10.0,15.0
+8748,-0.9564686,0.2481096,110.0,"Electrical measuring, controlling, etc, instruments, apparatus, nes",10.0,15.0
+8749,-0.46304703,0.80778176,110.0,"Parts, nes, and accessories of headings 873, 8743, 87454 or 8748",10.0,15.0
+88,8.4240265,-6.2946067,,,,
+8811,2.8619337,5.3773074,98.0,"Photographic cameras, flashlight apparatus, parts, accessories, nes",10.0,16.0
+8812,2.131987,11.691532,94.0,"Cinematographic cameras, projectors, etc, parts, accessories, nes",30.0,10.0
+8813,0.6325569,-0.90469134,92.0,"Photographic and cinematographic apparatus and equipment, nes",41.0,15.0
+8821,-1.5487818,11.805936,55.0,Chemical products and flashlight materials for use in photografy,19.0,10.0
+8822,-3.9407241,0.73723614,95.0,"Photographic film, plates and paper (other than cinematograph film)",29.0,15.0
+8830,-0.8340447,1.0477214,112.0,"Cinematograph film, exposed and developed",6.0,15.0
+8841,8.224565,-6.4123244,77.0,Lenses and other optical elements of any material,3.0,14.0
+8842,7.8257446,11.820259,114.0,Spectacles and spectacle frames,10.0,12.0
+8851,6.8209467,11.07131,111.0,"Watches, watch movements and case",5.0,12.0
+8852,6.632079,11.480174,111.0,"Clocks, clock movements and parts",5.0,12.0
+89,2.3032007,1.458188,,,,
+8921,2.343244,10.755229,94.0,"Printed books, pamphlets, maps and globes",30.0,10.0
+8922,2.4423504,11.039893,94.0,"Newspapers, journals and periodicals",30.0,10.0
+8924,7.8376107,-5.766328,72.0,"Picture postcards, decalcomanias, etc, printed",6.0,14.0
+8928,5.7299733,-6.3937616,113.0,"Printed matter, nes",18.0,14.0
+8931,5.621858,-6.774256,113.0,"Plastic packing containers, lids, stoppers and other closures",18.0,14.0
+8932,5.87737,-7.058928,113.0,Plastic sanitary and toilet articles,18.0,14.0
+8933,-1.2214246,1.3242157,112.0,Personal adornments and ornaments articles of plastic,6.0,15.0
+8935,6.3931284,-7.6655746,113.0,Articles of electric lighting of plastic,18.0,14.0
+8939,5.99885,-7.4004283,113.0,Miscellaneous articles of plastic,18.0,14.0
+8941,-0.6792035,2.4546125,100.0,"Baby carriages and parts thereof, nes",10.0,15.0
+8942,7.4862394,11.746305,114.0,"Children's toys, indoor games, etc",10.0,12.0
+8946,-3.4377968,0.24506424,95.0,Non-military arms and ammunition therefor,29.0,15.0
+8947,8.097914,12.1122465,114.0,"Other sporting goods and fairground amusements, etc",10.0,12.0
+8951,-0.67393184,3.2894075,100.0,"Office and stationary supplies, of base metal",10.0,15.0
+8952,8.32589,11.719568,114.0,"Pens, pencils and, fountain pens",10.0,12.0
+8959,-1.2958757,11.182359,55.0,Other office and stationary supplies,19.0,10.0
+8960,-1.8454598,1.133437,112.0,"Works of art, collectors' pieces and antiques",6.0,15.0
+8972,7.552169,11.050785,115.0,Imitation jewellery,5.0,12.0
+8973,6.4299536,11.118656,111.0,"Precious jewellery, goldsmiths' or silversmiths' wares",5.0,12.0
+8974,-0.95318437,1.2526346,112.0,"Other articles of precious metals or rolled precious metals, nes",6.0,15.0
+8981,7.1600485,11.989415,114.0,"Pianos, other string musical instruments",10.0,12.0
+8982,2.4434128,5.245588,98.0,"Musical instruments, nes",10.0,16.0
+8983,2.3663964,7.431967,97.0,"Sound recording tape, discs",10.0,16.0
+8989,-2.204454,3.5614,91.0,"Parts, nes of and accessories for musical instruments; metronomes",10.0,15.0
+8991,7.8440504,11.106418,115.0,"Articles and manufacture of carving, moulding materials, nes",5.0,12.0
+8993,6.6373825,-7.0197325,113.0,"Candles, matches, combustible products, etc",18.0,14.0
+8994,6.959813,11.662233,114.0,"Umbrellas, canes and similar articles and parts thereof",10.0,12.0
+8996,-0.68369055,0.05361695,110.0,"Orthopaedic appliances, hearing aids, artificial parts of the body",10.0,15.0
+8997,10.26938,8.57587,76.0,"Basketwork, wickerwork; brooms, paint rollers, etc",4.0,17.0
+8998,8.284504,11.2449255,115.0,"Small-wares and toilet articles, nes; sieves; tailors' dummies, etc",5.0,12.0
+8999,10.431898,7.708725,76.0,"Manufactured goods, nes",4.0,17.0
+9,9.717536,4.232045,,,,
+90,1.4461026,1.1475174,,,,
+91,1.3223491,2.9827056,,,,
+92,3.4941273,1.4678546,,,,
+93,2.5361607,2.59436,,,,
+94,4.2619286,11.376618,,,,
+9410,21.14936,5.7884216,1.0,"Animals, live, nes, (including zoo animals, pets, insects, etc)",4.0,1.0
+95,0.72494996,1.2076634,,,,
+9510,2.29535,10.370313,94.0,"Armoured fighting vehicles, war firearms, ammunition, parts, nes",30.0,10.0
+96,4.876734,6.1406207,,,,
+9610,1.5018406,0.67065275,92.0,"Coin (other than gold coin), not being legal tender",41.0,15.0
+97,4.842458,6.6381865,,,,
+9710,16.89677,7.9394045,84.0,"Gold, non-monetary (excluding gold ores and concentrates)",4.0,13.0
+98,5.2437105,5.6679764,,,,
+99,4.976876,6.37818,,,,
+macro_0,16.172255,-4.2062826,,,,
+macro_0_a,15.900154,-3.9197967,,,,
+macro_0_b,16.440859,-4.36867,,,,
+macro_1,20.799826,5.4490685,,,,
+macro_10,-0.11031675,10.9433365,,,,
+macro_10_a,2.858416,11.1823,,,,
+macro_10_b,3.1671147,10.958603,,,,
+macro_11,16.284698,6.75664,,,,
+macro_12,7.040312,10.426041,,,,
+macro_12_a,9.4817095,7.5665236,,,,
+macro_12_b,9.306752,7.338428,,,,
+macro_13,16.51348,7.528252,,,,
+macro_14,8.0063,-6.1079817,,,,
+macro_14_a,8.260365,-5.402774,,,,
+macro_14_b,8.015263,-5.375801,,,,
+macro_15,-0.9620497,1.5254316,,,,
+macro_15_a,1.9415978,2.2355042,,,,
+macro_15_b,1.2333257,1.7143936,,,,
+macro_16,1.5458474,6.8748384,,,,
+macro_16_a,5.532622,6.278355,,,,
+macro_16_b,5.260851,6.275343,,,,
+macro_17,9.62319,7.7251177,,,,
+macro_17_a,11.926097,4.354812,,,,
+macro_17_b,12.220396,4.3140173,,,,
+macro_2,10.249441,3.936133,,,,
+macro_2_a,9.655184,3.9300234,,,,
+macro_2_b,9.537983,4.49156,,,,
+macro_3,10.56499,2.3591397,,,,
+macro_3_a,10.161205,2.1966026,,,,
+macro_3_b,9.917795,2.3303633,,,,
+macro_4,19.374327,5.124735,,,,
+macro_5,12.823445,1.7320583,,,,
+macro_6,21.673931,10.309531,,,,
+macro_7,21.324501,10.016542,,,,
+macro_7_a,-7.984621,1.9681158,,,,
+macro_7_b,-8.966088,1.8611073,,,,
+macro_8,17.118435,12.06913,,,,
+macro_9,16.71245,7.2903504,,,,
